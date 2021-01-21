@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1611242600 source:/media/kira02/Others/Facultate/Anul2/AF/Pregatire_examen/componente_biconexe/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+	<stack>
+	<climits>
+	<queue>
+	<set>
+

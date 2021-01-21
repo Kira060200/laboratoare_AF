@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610726827 source:/media/kira02/Others/Facultate/Anul2/AF/Pregatire_examen/BFS_DFS_lista/main.cpp
+	<fstream>
+	<vector>
+	<iostream>
+	<queue>
+

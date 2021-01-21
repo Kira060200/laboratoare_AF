@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611251012 source:/media/kira02/Others/Facultate/Anul2/AF/Pregatire_examen/prim_alta_varianta/main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+	<climits>
+

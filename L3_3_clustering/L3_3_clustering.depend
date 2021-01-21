@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1611254025 source:/media/kira02/Others/Facultate/Anul2/AF/Pregatire_examen/L3_3_clustering/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+	<cstring>
+	<unordered_map>
+	<unordered_set>
+

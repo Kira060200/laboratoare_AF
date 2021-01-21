@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611158117 source:/media/kira02/Others/Facultate/Anul2/AF/Pregatire_examen/B2/main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+

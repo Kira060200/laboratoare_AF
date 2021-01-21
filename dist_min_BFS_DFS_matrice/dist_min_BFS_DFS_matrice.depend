@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610727776 source:/media/kira02/Others/Facultate/Anul2/AF/Pregatire_examen/dist_min_BFS_DFS_matrice/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+

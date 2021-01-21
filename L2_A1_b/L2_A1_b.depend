@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611237594 source:/media/kira02/Others/Facultate/Anul2/AF/Pregatire_examen/L2_A1_b/main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+

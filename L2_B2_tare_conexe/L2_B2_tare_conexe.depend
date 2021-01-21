@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1611245370 source:/media/kira02/Others/Facultate/Anul2/AF/Pregatire_examen/L2_B2_tare_conexe/main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<queue>
+	<stack>
+	<unordered_set>
+	<set>
+

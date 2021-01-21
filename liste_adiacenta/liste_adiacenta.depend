@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610723926 source:/media/kira02/Others/Facultate/Anul2/AF/Pregatire_examen/liste_adiacenta/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
