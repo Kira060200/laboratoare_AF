@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611339076 source:/media/kira02/Others/Facultate/Anul2/AF/Pregatire_examen/L4_4/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<climits>
+

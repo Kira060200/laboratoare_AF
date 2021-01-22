@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1611340544 source:/media/kira02/Others/Facultate/Anul2/AF/Pregatire_examen/dijkstra/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+	<set>
+	<map>
+	<climits>
+	<queue>
+

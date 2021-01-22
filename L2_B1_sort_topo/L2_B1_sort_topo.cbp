@@ -33,6 +33,7 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="main.cpp" />
+		<Unit filename="sortaret.in" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

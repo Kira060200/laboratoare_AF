@@ -102,7 +102,7 @@ int main()
         {
             for (itr = v[i].begin(); itr != v[i].end(); ++itr)
                 g << *itr << " ";
-            g<<endl;
+            g<<'\n';
         }
     return 0;
 }

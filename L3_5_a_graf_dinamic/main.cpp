@@ -5,6 +5,7 @@
 #include <algorithm>
 #include <list>
 using namespace std;
+ifstream fin ("grafpond.in");
 int t[100], h[100]; //t=vector tati, h=vector inaltime
 void init(int n)
 {
@@ -26,7 +27,6 @@ int main()
 {
     int n, m, i, j, x, y, p, S=0;
     vector< pair<int, pair<int,int>>> E; //primul int e ponderea, pair (x,y)
-    ifstream fin ("graf.txt");
     fin>>n>>m; E.resize(m);
     list< pair<int, int>> T;
     for(i=0; i<m; i++)

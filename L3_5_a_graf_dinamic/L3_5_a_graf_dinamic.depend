@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1611298858 source:/media/kira02/Others/Facultate/Anul2/AF/Pregatire_examen/L3_5_a_graf_dinamic/main.cpp
+	<iostream>
+	<vector>
+	<utility>
+	<fstream>
+	<algorithm>
+	<list>
+
