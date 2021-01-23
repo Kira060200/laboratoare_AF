@@ -1,0 +1,9 @@
+Max Flow: 3
+Min Cut: 
+{ 1 2 3 4 5 9 }
+{ 6 7 8 10 }
+Maximum Bipartite Matching (Cuplaj maxim):
+1 2
+4 3
+7 6
+
